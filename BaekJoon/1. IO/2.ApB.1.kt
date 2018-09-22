@@ -6,8 +6,6 @@
  * https://www.acmicpc.net/problem/1000
  */
 
-import java.util.Scanner
-
 fun main(args: Array<String>) {
     // Kotlin 기본함수로 한줄을 읽습니다.
     // !!를 통해 Not Null타입으로 만들어줍니다.
