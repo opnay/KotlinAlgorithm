@@ -1,7 +1,10 @@
 /*
- * 그대로 출력하기
+ * 그대로 출력하기 1, 2
  *
- * https://www.acmicpc.net/problem/11718
+ * 7: https://www.acmicpc.net/problem/11718
+ * 8: https://www.acmicpc.net/problem/11719
+ *
+ * 다른 언어라면 두 문제는 다를 수 있지만, Kotlin, Java에서는 동일한 내용으로 사용 가능하다.
  */
 
 // 문제에서 입력이 최대 100줄로 이루어져 있다고 되어있는데
