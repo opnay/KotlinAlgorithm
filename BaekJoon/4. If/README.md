@@ -13,3 +13,6 @@ https://www.acmicpc.net/step/4
 | [1. 시험 성적](https://www.acmicpc.net/problem/9498) | 01.Score.kt |
 | [2. 세 수](https://www.acmicpc.net/problem/10817) | 02.Three.kt |
 | [3. X보다 작은 수](https://www.acmicpc.net/problem/10871) | 03.OverX.kt |
+| [4. 평균](https://www.acmicpc.net/problem/1546) | 04.Avg.kt |
+| [5. 평균은 넘겠지](https://www.acmicpc.net/problem/4344) | 05.OverAvg.kt |
+| [6. 더하기 사이클](https://www.acmicpc.net/problem/1110) | 06.CyclePlus.kt |
