@@ -15,7 +15,7 @@ https://www.acmicpc.net/step/7
 | [3. 문자열 반복](https://www.acmicpc.net/problem/2675)    | 03.Repeat.kt      |
 | [4. 단어 공부](https://www.acmicpc.net/problem/1157)     | 04.StudyWord.kt   |
 | [5. 그룹 단어 체커](https://www.acmicpc.net/problem/1316)  | 05.Checker.kt     |
-| [6. 단어의 개수](https://www.acmicpc.net/problem/1152)    | 6.OneArry의 1번과 동일 |
+| [6. 단어의 개수](https://www.acmicpc.net/problem/1152)    | 6.OneArray의 1번과 동일 |
 | [7. 상수](https://www.acmicpc.net/problem/2908)        | 07.Constant.kt    |
 | [8. 다이얼](https://www.acmicpc.net/problem/5622)       | 08.Dial.kt        |
 | [9. 크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | 09.Croatia.kt     |
